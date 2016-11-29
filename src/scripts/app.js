@@ -10,5 +10,5 @@ require("./views/search");
 require("./views/my");
 
 SPA.config({
-	indexView:"home"    // 设置默认视图
+	indexView:"index"    // 设置默认视图
 })

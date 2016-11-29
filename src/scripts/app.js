@@ -11,5 +11,7 @@ require("./views/my");
 require("./views/login");
 
 SPA.config({
+
 	indexView:"index"    // 设置默认视图
+
 })

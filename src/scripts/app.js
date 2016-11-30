@@ -9,6 +9,7 @@ require("./views/home");
 require("./views/search");
 require("./views/my");
 require("./views/login");
+require("./views/homet");
 
 SPA.config({
 	indexView:"index"    // 设置默认视图
